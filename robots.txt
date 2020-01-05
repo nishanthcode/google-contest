@@ -1,0 +1,1 @@
+User-agent: BingbotDisallow: /blocked-page.html
