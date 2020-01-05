@@ -1,2 +1,2 @@
-User-agent: BingbotDisallow: /index.html
-User-agent: Googlebot Disallow: /index.html
+User-agent: *
+ Disallow: /dummy.html
