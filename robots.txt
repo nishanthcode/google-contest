@@ -1,2 +1,2 @@
 User-agent: *
- Disallow: /dummy.html
+ Disallow: dummy.html
